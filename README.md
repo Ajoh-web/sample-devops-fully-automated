@@ -334,5 +334,5 @@ Once both the above steps are done click on Save.
 
 ## Finally observe the whole flow and understand the integrations :) 
 # Happy learning, everyone! 😊 😊
-Cheers! Vamsi Chunnduru
+Cheers! Mirabel Eyong Ajoh
 # sample-devops-fully-automated
